@@ -27,6 +27,7 @@ This profile contains selected academic and private projects that reflect my pra
 | **Frontend** | `Svelte`, `React`, `TypeScript / JavaScript`, `HTML / CSS` |
 | **DevOps & Platform** | `Kubernetes`, `Helm`, `ArgoCD`, `Terraform (IaC)`, `Ansible` |
 | **Automation & CI/CD** | `GitLab CI`, `GitHub Actions`, `Renovate` |
+| **Monitoring & Logging** | `Grafana`, `Promtheus`, `Loki`, `AlertManager` |
 
 ---
 
