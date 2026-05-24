@@ -23,11 +23,14 @@ This profile contains selected academic and private projects that reflect my pra
 
 | Category | Technologies |
 | :--- | :--- |
+| **DevOps & Platform** | `Kubernetes (AKS)`, `Docker`, `Helm`, `ArgoCD`, `Proxmox` |
+| **Automation & IaC** | `GitLab CI/CD`, `GitHub Actions`, `Renovate`, `OpenTofu`, `Ansible` |
+| **Cloud** | `Azure`, `AWS`, `SWITCHengines (OpenStack)` |
+| **Monitoring & Logging** | `Prometheus`, `Grafana`, `Loki`, `AlertManager` |
 | **Backend & Logic** | `Java`, `C++`, `Haskell` |
 | **Frontend** | `Svelte`, `React`, `TypeScript / JavaScript`, `HTML / CSS` |
-| **DevOps & Platform** | `Kubernetes`, `Helm`, `ArgoCD`, `Terraform (IaC)`, `Ansible` |
-| **Automation & CI/CD** | `GitLab CI`, `GitHub Actions`, `Renovate` |
-| **Monitoring & Logging** | `Grafana`, `Promtheus`, `Loki`, `AlertManager` |
+| **Network Infrastructure** | `Network Planning`, `Routing`, `Switching`, `VLANs`, `Firewalling`, `DNS`, `DHCP`, `VPN`, `UniFi`, `Cisco` |
+| **Systems & Tools** | `Linux`, `Git`, `Bash` |
 
 ---
 
